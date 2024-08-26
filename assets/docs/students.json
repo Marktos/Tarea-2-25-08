@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "nombre": "Harry Potter",
+    "casa": "gryff"
+  },
+  {
+    "id": 2,
+    "nombre": "Hermione Granger",
+    "casa": "gryff"
+  },
+  {
+    "id": 3,
+    "nombre": "Ron Weasley",
+    "casa": "gryff"
+  },
+  {
+    "id": 4,
+    "nombre": "Draco Malfoy",
+    "casa": "slit"
+  },
+  {
+    "id": 5,
+    "nombre": "Luna Lovegood",
+    "casa": "reven"
+  },
+  {
+    "id": 6,
+    "nombre": "Cho Chang",
+    "casa": "reven"
+  },
+  {
+    "id": 7,
+    "nombre": "Cedric Diggory",
+    "casa": "huff"
+  },
+  {
+    "id": 8,
+    "nombre": "Neville Longbottom",
+    "casa": "gryff"
+  },
+  {
+    "id": 9,
+    "nombre": "Pansy Parkinson",
+    "casa": "slit"
+  },
+  {
+    "id": 10,
+    "nombre": "Susan Bones",
+    "casa": "huff"
+  },
+  {
+    "id": 11,
+    "nombre": "Ginny Weasley",
+    "casa": "gryff"
+  },
+  {
+    "id": 12,
+    "nombre": "Fred Weasley",
+    "casa": "gryff"
+  },
+  {
+    "id": 13,
+    "nombre": "George Weasley",
+    "casa": "gryff"
+  },
+  {
+    "id": 14,
+    "nombre": "Percy Weasley",
+    "casa": "gryff"
+  },
+  {
+    "id": 15,
+    "nombre": "Tom Riddle",
+    "casa": "slit"
+  },
+  {
+    "id": 16,
+    "nombre": "Minerva McGonagall",
+    "casa": "gryff"
+  },
+  {
+    "id": 17,
+    "nombre": "Severus Snape",
+    "casa": "slit"
+  },
+  {
+    "id": 18,
+    "nombre": "Sirius Black",
+    "casa": "gryff"
+  },
+  {
+    "id": 19,
+    "nombre": "Remus Lupin",
+    "casa": "gryff"
+  },
+  {
+    "id": 20,
+    "nombre": "Nymphadora Tonks",
+    "casa": "huff"
+  }
+]
